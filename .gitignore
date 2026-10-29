@@ -1,0 +1,11 @@
+# Node & Dependency directories
+node_modules/
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/

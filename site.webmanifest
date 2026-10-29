@@ -1,0 +1,18 @@
+{
+  "name": "The Harmonic Realm: Musical Instruments Explorer",
+  "short_name": "Instruments",
+  "description": "Interactive organology catalog of world musical instruments with acoustic physics and playable sound synthesizers.",
+  "start_url": "https://mahesh-yennam.github.io/Musical-Instruments/",
+  "scope": "https://mahesh-yennam.github.io/Musical-Instruments/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
